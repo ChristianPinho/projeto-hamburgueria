@@ -29,9 +29,6 @@ Neste projeto pratiquei:
 - Uso de `filter`
 - Responsividade com CSS
 
-## Como executar
+## Acesse o projeto
 
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/ChristianPinho/projeto-hamburgueria.git
+[Ver projeto online](https://SEU-LINK-AQUI)
