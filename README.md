@@ -2,6 +2,12 @@
 
 Projeto desenvolvido para praticar JavaScript, manipulando uma lista de produtos de uma hamburgueria com os métodos `forEach`, `map`, `reduce` e `filter`.
 
+## Acesse o projeto
+
+[Ver projeto online] (https://christianpinho.github.io/projeto-hamburgueria/)
+
+![Mockup do projeto]
+
 ## Funcionalidades
 
 - Mostrar todos os produtos do cardápio
@@ -29,6 +35,4 @@ Neste projeto pratiquei:
 - Uso de `filter`
 - Responsividade com CSS
 
-## Acesse o projeto
 
-[Ver projeto online](https://SEU-LINK-AQUI)
