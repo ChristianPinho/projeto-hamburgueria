@@ -4,9 +4,9 @@ Projeto desenvolvido para praticar JavaScript, manipulando uma lista de produtos
 
 ## Acesse o projeto
 
-[Ver projeto online] (https://christianpinho.github.io/projeto-hamburgueria/)
+[Ver projeto online](https://christianpinho.github.io/projeto-hamburgueria/)
 
-![Mockup do projeto] (./assets/mockup.png)
+![Mockup do projeto](./assets/mockup.png)
 
 ## Funcionalidades
 
